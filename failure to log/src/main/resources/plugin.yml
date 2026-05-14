@@ -1,0 +1,15 @@
+name: FailureToLog
+version: '${version}'
+
+main: org.kooyoseb.failureToLog.FailureToLog
+api-version: '26.1.2'
+load: POSTWORLD
+commands:
+  failuretolog:
+    description: Manage FailureToLog.
+    usage: /failuretolog <toggle|savelogs|codes|log>
+    aliases: [ftl]
+permissions:
+  failuretolog.admin:
+    description: Allows changing FailureToLog settings.
+    default: op
