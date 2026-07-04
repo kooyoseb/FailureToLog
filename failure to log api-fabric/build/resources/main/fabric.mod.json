@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "failure-to-log-api-fabric",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "FailureToLog API Fabric",
 	"description": "Client-side companion mod for FailureToLog servers.",
 	"authors": [

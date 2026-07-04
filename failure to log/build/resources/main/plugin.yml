@@ -1,5 +1,5 @@
 name: FailureToLog
-version: '${version}'
+version: '1.0-SNAPSHOT'
 
 main: org.kooyoseb.failureToLog.FailureToLog
 api-version: '26.X'
